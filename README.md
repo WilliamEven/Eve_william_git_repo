@@ -32,6 +32,9 @@ https://drive.google.com/file/d/1NLEctgNembqzKpzna6E6HtiRjWnEWsP5/view?usp=shari
 
 
 # Delivery
-After finish project, upload it to your Git repo, and please make a pull request. Thanks
+After finish project, upload it to your Git repo, and please make a pull request.
+
+
+Thanks
 
 
